@@ -37,15 +37,3 @@ button {
 	padding-top: 200px;
 	font-size: 48px;
 }
-
-#solicita{
-<<<<<<< HEAD
-	background: yellow;
-=======
-/*    background-color: purple;*/
-	background: #1c6c28;
->>>>>>> cc7280daa083be5c525f05855129ae812f933aec
-	border: 1px solid purple !important;
-	text-align: center !important;
-	margin-top: 20px;
-}
