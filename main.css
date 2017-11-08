@@ -1,0 +1,46 @@
+#fondo{
+	background-image:url("assets/fondo.jpg"); 
+	height: 700px;
+}
+
+#logo{
+	height: 70px;
+	width: auto;
+}
+
+button {
+    background: transparent;
+    border: 1px solid white !important;
+    border-radius: 6px !important;
+    padding: 15px;
+}
+
+.text-white{
+	color: white;
+}
+
+.centrar{
+ 	text-align: center;
+}
+
+#ver{
+	padding-top: 30px;
+	padding-right: 20px;
+}
+
+.bot{
+	padding-top: 25px;
+	text-align: right;
+}
+
+#servicio{
+	padding-top: 200px;
+	font-size: 48px;
+}
+
+#solicita{
+	background: purple;
+	border: 1px solid purple !important;
+	text-align: center !important;
+	margin-top: 20px;
+}
